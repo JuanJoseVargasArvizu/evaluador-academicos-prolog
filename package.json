@@ -1,0 +1,13 @@
+{
+  "name": "evaluador-academicos-prolog",
+  "version": "1.0.0",
+  "description": "Evaluador de Requisitos Académicos (Kárdex) como API REST",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "tau-prolog": "^0.3.4"
+  }
+}
